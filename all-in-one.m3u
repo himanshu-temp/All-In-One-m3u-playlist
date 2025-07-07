@@ -92,6 +92,20 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/Star_Gold_BTS/output/index.mpd?__hdnea__=
 #EXTHTTP:{"cookie":"__hdnea__=st=1751854253~exp=1751940653~acl=/*~hmac=30b7925b754b0b819350e6e77bdb3b46053ad39bdc587f9f9cac7df7efa5d0c1"}
 https://jiotvmblive.cdn.jio.com/bpk-tv/Star_Gold_Select_HD_BTS/output/index.mpd?__hdnea__=st=1751854253~exp=1751940653~acl=/*~hmac=30b7925b754b0b819350e6e77bdb3b46053ad39bdc587f9f9cac7df7efa5d0c1&xxx=%7Ccookie=__hdnea__=st=1751854253~exp=1751940653~acl=/*~hmac=30b7925b754b0b819350e6e77bdb3b46053ad39bdc587f9f9cac7df7efa5d0c1
 
+#EXTINF:-1 tvg-id="Star Sports 1" tvg-name="Star Sports 1" group-title="Sports" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Star_Sports_1.png",Star Sports 1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=df20894ec30954d3b28097c138f4cfda:ff9b6292b1cddbd11a046029cb314634
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/69.1 ExoPlayerLib/824.0
+#EXTHTTP:{"cookie":"__hdnea__=st=1751854253~exp=1751940653~acl=/*~hmac=30b7925b754b0b819350e6e77bdb3b46053ad39bdc587f9f9cac7df7efa5d0c1"}
+https://jiotvmblive.cdn.jio.com/bpk-tv/Star_Sports_1_BTS/output/index.mpd?__hdnea__=st=1751854253~exp=1751940653~acl=/*~hmac=30b7925b754b0b819350e6e77bdb3b46053ad39bdc587f9f9cac7df7efa5d0c1&xxx=%7Ccookie=__hdnea__=st=1751854253~exp=1751940653~acl=/*~hmac=30b7925b754b0b819350e6e77bdb3b46053ad39bdc587f9f9cac7df7efa5d0c1
+
+#EXTINF:-1 tvg-id="Star Sports 2" tvg-name="Star Sports 2" group-title="Sports" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Star_Sports_2.png",Star Sports 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=fc3aafe80845584199a637249fad2ffa:ca4474972fdb4bf8ecb164482853c692
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/69.1 ExoPlayerLib/824.0
+#EXTHTTP:{"cookie":"__hdnea__=st=1751854253~exp=1751940653~acl=/*~hmac=30b7925b754b0b819350e6e77bdb3b46053ad39bdc587f9f9cac7df7efa5d0c1"}
+https://jiotvmblive.cdn.jio.com/bpk-tv/Star_Sports_2_BTS/output/index.mpd?__hdnea__=st=1751854253~exp=1751940653~acl=/*~hmac=30b7925b754b0b819350e6e77bdb3b46053ad39bdc587f9f9cac7df7efa5d0c1&xxx=%7Ccookie=__hdnea__=st=1751854253~exp=1751940653~acl=/*~hmac=30b7925b754b0b819350e6e77bdb3b46053ad39bdc587f9f9cac7df7efa5d0c1
+
 #EXTINF:-1 tvg-id="ts24" tvg-name="Star Sports 1 Hindi HD" group-title="Sports" tvg-logo="https://watchindia.net/images/channels/sports/Star_Sports_1_HD.png",Star Sports 1 Hindi HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=400131994b445d8c8817202248760fda:2d56cb6f07a75b9aff165d534ae2bfc4
@@ -99,12 +113,26 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/Star_Gold_Select_HD_BTS/output/index.mpd?
 #EXTHTTP:{"cookie":"__hdnea__=st=1751854253~exp=1751940653~acl=/*~hmac=30b7925b754b0b819350e6e77bdb3b46053ad39bdc587f9f9cac7df7efa5d0c1"}
 https://jiotvmblive.cdn.jio.com/bpk-tv/Star_Sports_HD1_Hindi_BTS/output/index.mpd?__hdnea__=st=1751854253~exp=1751940653~acl=/*~hmac=30b7925b754b0b819350e6e77bdb3b46053ad39bdc587f9f9cac7df7efa5d0c1&xxx=%7Ccookie=__hdnea__=st=1751854253~exp=1751940653~acl=/*~hmac=30b7925b754b0b819350e6e77bdb3b46053ad39bdc587f9f9cac7df7efa5d0c1
 
+#EXTINF:-1 tvg-id="Star Sports Select 1" tvg-name="Star Sports Select 1" group-title="Sports" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Star_Sports_Select_1.png",Star Sports Select 1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ea7985dacbb95f1c9d62e5a1675142e5:39d5910ca04841b5f32bf24623cdae58
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/69.1 ExoPlayerLib/824.0
+#EXTHTTP:{"cookie":"__hdnea__=st=1751854253~exp=1751940653~acl=/*~hmac=30b7925b754b0b819350e6e77bdb3b46053ad39bdc587f9f9cac7df7efa5d0c1"}
+https://jiotvmblive.cdn.jio.com/bpk-tv/Star_Sports_Select_1_BTS/output/index.mpd?__hdnea__=st=1751854253~exp=1751940653~acl=/*~hmac=30b7925b754b0b819350e6e77bdb3b46053ad39bdc587f9f9cac7df7efa5d0c1&xxx=%7Ccookie=__hdnea__=st=1751854253~exp=1751940653~acl=/*~hmac=30b7925b754b0b819350e6e77bdb3b46053ad39bdc587f9f9cac7df7efa5d0c1
+
 #EXTINF:-1 tvg-id="ts246" tvg-name="Star Sports Select 1 HD" group-title="Sports" tvg-logo="https://watchindia.net/images/channels/sports/Star_Sports_Select_1_HD.png",Star Sports Select 1 HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c2c048e439d65316beeda6ef64d5d0f8:e2fdc132cbdee65501b845ce414fce39
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/69.1 ExoPlayerLib/824.0
 #EXTHTTP:{"cookie":"__hdnea__=st=1751854253~exp=1751940653~acl=/*~hmac=30b7925b754b0b819350e6e77bdb3b46053ad39bdc587f9f9cac7df7efa5d0c1"}
 https://jiotvmblive.cdn.jio.com/bpk-tv/Star_Sports_Select_1_HD_BTS/output/index.mpd?__hdnea__=st=1751854253~exp=1751940653~acl=/*~hmac=30b7925b754b0b819350e6e77bdb3b46053ad39bdc587f9f9cac7df7efa5d0c1&xxx=%7Ccookie=__hdnea__=st=1751854253~exp=1751940653~acl=/*~hmac=30b7925b754b0b819350e6e77bdb3b46053ad39bdc587f9f9cac7df7efa5d0c1
+
+#EXTINF:-1 tvg-id="Star Sports Select 2" tvg-name="Star Sports Select 2" group-title="Sports" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Star_Sports_Select_2.png",Star Sports Select 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ec7d009d07aa5cbc81a441880530dfa5:8147983ad7402ebfc222d28b667a196f
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/69.1 ExoPlayerLib/824.0
+#EXTHTTP:{"cookie":"__hdnea__=st=1751854253~exp=1751940653~acl=/*~hmac=30b7925b754b0b819350e6e77bdb3b46053ad39bdc587f9f9cac7df7efa5d0c1"}
+https://jiotvmblive.cdn.jio.com/bpk-tv/Star_Sports_Select_2_BTS/output/index.mpd?__hdnea__=st=1751854253~exp=1751940653~acl=/*~hmac=30b7925b754b0b819350e6e77bdb3b46053ad39bdc587f9f9cac7df7efa5d0c1&xxx=%7Ccookie=__hdnea__=st=1751854253~exp=1751940653~acl=/*~hmac=30b7925b754b0b819350e6e77bdb3b46053ad39bdc587f9f9cac7df7efa5d0c1
 
 #EXTINF:-1 tvg-id="ts463" tvg-name="Star Sports Select 2 HD" group-title="Sports" tvg-logo="https://watchindia.net/images/channels/sports/Star_Sports_Select_2_HD.png",Star Sports Select 2 HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -280,6 +308,20 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/Colors_Cineplex_Bollywood_BTS/output/inde
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/69.1 ExoPlayerLib/824.0
 #EXTHTTP:{"cookie":"__hdnea__=st=1751854253~exp=1751940653~acl=/*~hmac=30b7925b754b0b819350e6e77bdb3b46053ad39bdc587f9f9cac7df7efa5d0c1"}
 https://jiotvmblive.cdn.jio.com/bpk-tv/Sports18_1_HD_BTS/output/index.mpd?__hdnea__=st=1751854253~exp=1751940653~acl=/*~hmac=30b7925b754b0b819350e6e77bdb3b46053ad39bdc587f9f9cac7df7efa5d0c1&xxx=%7Ccookie=__hdnea__=st=1751854253~exp=1751940653~acl=/*~hmac=30b7925b754b0b819350e6e77bdb3b46053ad39bdc587f9f9cac7df7efa5d0c1
+
+#EXTINF:-1 tvg-id="Star Sports 2 Hindi" tvg-name="Star Sports 2 Hindi" group-title="Sports" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sports18_1_SD.png",Star Sports 2 Hindi
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b9d4acedc66c5660a1e06197a55bccd2:dd53bab1a42f41ae8f0a5c8fd286f456
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/69.1 ExoPlayerLib/824.0
+#EXTHTTP:{"cookie":"__hdnea__=st=1751854253~exp=1751940653~acl=/*~hmac=30b7925b754b0b819350e6e77bdb3b46053ad39bdc587f9f9cac7df7efa5d0c1"}
+https://jiotvmblive.cdn.jio.com/bpk-tv/Sports18_1_SD_BTS/output/index.mpd?__hdnea__=st=1751854253~exp=1751940653~acl=/*~hmac=30b7925b754b0b819350e6e77bdb3b46053ad39bdc587f9f9cac7df7efa5d0c1&xxx=%7Ccookie=__hdnea__=st=1751854253~exp=1751940653~acl=/*~hmac=30b7925b754b0b819350e6e77bdb3b46053ad39bdc587f9f9cac7df7efa5d0c1
+
+#EXTINF:-1 tvg-id="Star Sports Khel" tvg-name="Star Sports Khel" group-title="Sports" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sports18_Khel.png",Star Sports Khel
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ab947ddbb9795d38bff35597b4f73108:2671e22eb7dc174c35b6aad4b113f7b0
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/69.1 ExoPlayerLib/824.0
+#EXTHTTP:{"cookie":"__hdnea__=st=1751854253~exp=1751940653~acl=/*~hmac=30b7925b754b0b819350e6e77bdb3b46053ad39bdc587f9f9cac7df7efa5d0c1"}
+https://jiotvmblive.cdn.jio.com/bpk-tv/Sports18_Khel_BTS/output/index.mpd?__hdnea__=st=1751854253~exp=1751940653~acl=/*~hmac=30b7925b754b0b819350e6e77bdb3b46053ad39bdc587f9f9cac7df7efa5d0c1&xxx=%7Ccookie=__hdnea__=st=1751854253~exp=1751940653~acl=/*~hmac=30b7925b754b0b819350e6e77bdb3b46053ad39bdc587f9f9cac7df7efa5d0c1
 
 #EXTINF:-1 tvg-id="872" tvg-name="Sony Yay" group-title="Kids" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Yay_Hindi.png",Sony Yay
 https://tataplay.slivcdn.com/hls/live/2011746/SonyYaySD/master.m3u8
