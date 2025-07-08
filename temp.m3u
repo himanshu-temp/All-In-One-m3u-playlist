@@ -1,4 +1,0 @@
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64),Referer=https://streamready.in/
-#EXTINF:-1 tvg-id="LIVETV_LIVETVCHANNEL_STAR_PLUS" tvg-name="Star Plus" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/657f544e8821b23edf4c77fe/images/star_plus.png",Star Plus
-https://iptv-live-play1.streamready.in/live/media11/star_plus/dashc/star_plus.mpd
