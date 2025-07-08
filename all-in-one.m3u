@@ -382,6 +382,9 @@ https://z5ak-cmaflive.zee5.com/cmaf/live/2105536/ZeeTVELE/master.m3u8?hdntl=exp=
 https://z5ak-cmaflive.zee5.com/cmaf/live/2105547/ZeeClassicELE/master.m3u8?hdntl=exp=1752065745~acl=%2f*~data=hdntl~hmac=52b34ab41627aabb33dbb824d81da8ebeaac136f45d5e6c180b8cac89154b692
 #EXTINF:-1 tvg-id="Sony TEN 1 SD" tvg-name="Sony TEN 1 SD" group-title="Sports" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen1_SD_Logo_CLR.png",Sony TEN 1 SD
 https://dish.slivcdn.com/hls/live/2011739-b/TEN1SD/master.m3u8
+#EXTINF:-1 tvg-id="Sony TEN 1 HD" tvg-name="Sony TEN 1 HD" group-title="Sports" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen1_HD_Logo_CLR.png",Sony TEN 1 HD
+https://dish.slivcdn.com/hls/live/2011747-b/TEN1HD/master.m3u8
+
 #EXTINF:-1 tvg-id="Sony TEN 2 SD" tvg-name="Sony TEN 2 SD" group-title="Sports" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen2_SD_Logo_CLR.png",Sony TEN 2 SD
 https://dish.slivcdn.com/hls/live/2020590-b/TEN2SD/master.m3u8
 #EXTINF:-1 tvg-id="Sony TEN 2 HD" tvg-name="Sony TEN 2 HD" group-title="Sports" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen2_HD_Logo_CLR.png",Sony TEN 2 HD
