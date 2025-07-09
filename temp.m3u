@@ -1,0 +1,9 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="SONY_SAB_HD" tvg-name="Sony SAB HD" tvg-logo="https://assets-prod.services.toffeelive.com/f_webp,w_240,q_100/ES55-JQBv9knK3AHNDWC/posters/13411be9-62b9-4a99-a062-b6e91dfb1099.webp" group-title="Entertainment",Sony SAB HD
+#EXTVLCOPT:http-user-agent=Toffee Abu SAEEID X (Linux;Android 14) AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc
+#EXTVLCOPT:http-referrer=https://toffeelive.com/
+#EXTVLCOPT:http-cookie=Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1752218878:KeyName=prod_linear:Signature=gK2idmZp3beC05kUJzZFN5siLSud1Usx6zKJdc2vTBHUCCJ0rf_8rDVFODS_I6hiQyi2QS0-0lEqG5Lgq1llAQ
+#EXTVLCOPT:http-header-Host=bldcmprod-cdn.toffeelive.com
+#EXTVLCOPT:http-header-client-api-header=null
+#EXTVLCOPT:http-header-accept-encoding=gzip
+https://bldcmprod-cdn.toffeelive.com/cdn/live/sonysab_hd/playlist.m3u8
