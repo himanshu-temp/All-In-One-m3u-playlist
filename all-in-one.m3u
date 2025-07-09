@@ -405,3 +405,9 @@ https://dish.slivcdn.com/hls/live/2020594-b/SONYSIXSD/master.m3u8
 #EXTINF:-1 tvg-id="155" tvg-name="Sony sports ten 5 HD" group-title="Sports" tvg-logo="https://www.indiantvinfo.com/media/2022/10/Sony-Sports-Ten5-New-Logo.png",Sony sports ten 5 HD
 https://dish.slivcdn.com/hls/live/2020593-b/SONYSIXHD/master.m3u8
 
+#EXTINF:-1 tvg-id="SONY SAB" tvg-name="SONY SAB" group-title="Entertainment" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_SAB/images/LOGO_HD/image.png",SONY SAB
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDE0LTIvc29ueV9zYWIvbmRhc2hkLw==:Expires=1752087619:KeyName=iptv-prod-media-cdn-keys:Signature=sZnyy9Ft2v4b3dkbPJvOP-KVHpcbwYIKYbKmFgpbBevqSpquhgYKpwdr8MqiuNiC347LbrYNXM4LGQXbPdieCg=="}
+#EXTVLCOPT:http-user-agent=tv.accedo.airtel.wynk/1.97.1 (Linux;Android 11) ygx/69.1 ExoPlayerLib/2.19.1
+https://companion-live-play1.streamready.in/live/med14-2/sony_sab/ndashd/sony_sab.mpd?%7Ccookie=Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDE0LTIvc29ueV9zYWIvbmRhc2hkLw==:Expires=1752087619:KeyName=iptv-prod-media-cdn-keys:Signature=sZnyy9Ft2v4b3dkbPJvOP-KVHpcbwYIKYbKmFgpbBevqSpquhgYKpwdr8MqiuNiC347LbrYNXM4LGQXbPdieCg==
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=df87b8c858ff3e808ac58e54302c04b3:094452c9aa1df2f8dd507d6235385575
