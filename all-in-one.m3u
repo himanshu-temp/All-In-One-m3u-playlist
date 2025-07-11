@@ -338,10 +338,10 @@ https://tataplay.slivcdn.com/hls/live/2011749/SABHD/master.m3u8
 #EXTINF:-1 tvg-id="291" tvg-name="Sony TV HD" group-title="Entertainment" tvg-logo="https://watchindia.net/images/channels/hindi/Sony_TV_HD.png",SET HD
 https://tataplay.slivcdn.com/hls/live/2011671/SETHD/master.m3u8
 
-#EXTINF:-1 tvg-id="474" tvg-name="Sony Pal" group-title="Entertainment" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Pal.png",Sony Pal
+#EXTINF:-1 tvg-id="441223" tvg-name="Sony Pal" group-title="Entertainment" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Pal.png",Sony Pal
 https://tataplay.slivcdn.com/hls/live/2011741/SonyPalSD/master.m3u8
 
-#EXTINF:-1 tvg-id="Sony BBC Earth HD" tvg-name="Sony BBC Earth HD" group-title="Knowledge" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_BBC_Earth_HD.png",Sony BBC Earth HD
+#EXTINF:-1 tvg-id="441386" tvg-name="Sony BBC Earth HD" group-title="Knowledge" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_BBC_Earth_HD.png",Sony BBC Earth HD
 https://tataplay.slivcdn.com/hls/live/2011907/SonyBBCEarthHD/master.m3u8
 
 #EXTINF:-1 tvg-id="ts689" tvg-name="Aaj Tak" group-title="News" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Aaj_Tak.png",Aaj Tak
