@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="zeebiharjharkhand" tvg-name="Zee Bihar Jharkhand" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/5zkMvEbF.png" group-title="Indian News",Zee Bihar Jharkhand
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"e1ec6098b5014ac7aae0b37f72d5e85e","k":"c04950f25d8e4107a96e828e7911e53b"}]}
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebiharjharkhand/default/manifest.mpd
