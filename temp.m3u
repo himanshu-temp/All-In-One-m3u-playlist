@@ -4,7 +4,54 @@
 #EXTINF:-1 tvg-id="291" tvg-name="Sony TV HD" group-title="Entertainment" tvg-logo="https://watchindia.net/images/channels/hindi/Sony_TV_HD.png",(Sony) SET HD
 https://tataplay.slivcdn.com/hls/live/2011671/SETHD/master.m3u8
 
-l=/*~hmac=dc23b19e23c0f63d84b28debe92ce57886bda0d94662e24c6e8bd1939c0c4910&xxx=%7Ccookie=__hdnea__=st=1752546011~exp=1752632411~acl=/*~hmac=dc23b19e23c0f63d84b28debe92ce57886bda0d94662e24c6e8bd1939c0c4910
+#EXTINF:-1 tvg-id="177" tvg-name="ABP News India" group-title="News" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/ABP_News_India.png",ABP News India
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b9d4acedc66c5660a1e06197a55bccd2:dd53bab1a42f41ae8f0a5c8fd286f456
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/69.1 ExoPlayerLib/824.0
+#EXTHTTP:{"cookie":"__hdnea__=st=1752546011~exp=1752632411~acl=/*~hmac=dc23b19e23c0f63d84b28debe92ce57886bda0d94662e24c6e8bd1939c0c4910"}
+https://jiotvmblive.cdn.jio.com/bpk-tv/ABP_News_India_BTS/output/index.mpd?__hdnea__=st=1752546011~exp=1752632411~acl=/*~hmac=dc23b19e23c0f63d84b28debe92ce57886bda0d94662e24c6e8bd1939c0c4910&xxx=%7Ccookie=__hdnea__=st=1752546011~exp=1752632411~acl=/*~hmac=dc23b19e23c0f63d84b28debe92ce57886bda0d94662e24c6e8bd1939c0c4910
+
+#EXTINF:-1 tvg-id="566" tvg-name="Animal Planet Hindi" group-title="Knowledge" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Animal_Planet_Hindi.png",Animal Planet Hindi
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ead5a173062a584c85fcdfcfdda3ddf5:4c799a57db355c7cdfbdbf2ad39ec7fe
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/69.1 ExoPlayerLib/824.0
+#EXTHTTP:{"cookie":"__hdnea__=st=1752546011~exp=1752632411~acl=/*~hmac=dc23b19e23c0f63d84b28debe92ce57886bda0d94662e24c6e8bd1939c0c4910"}
+https://jiotvmblive.cdn.jio.com/bpk-tv/Animal_Planet_Hindi_BTS/output/index.mpd?__hdnea__=st=1752546011~exp=1752632411~acl=/*~hmac=dc23b19e23c0f63d84b28debe92ce57886bda0d94662e24c6e8bd1939c0c4910&xxx=%7Ccookie=__hdnea__=st=1752546011~exp=1752632411~acl=/*~hmac=dc23b19e23c0f63d84b28debe92ce57886bda0d94662e24c6e8bd1939c0c4910
+
+#EXTINF:-1 tvg-id="441402" tvg-name="Cartoon Network Hindi" group-title="Kids" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Cartoon_Network_Hindi.png",Cartoon Network Hindi
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ea48cf7b24dd54dd98c369626b9ad105:ee5778d627dfae2c2affc02d76e8db6c
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/69.1 ExoPlayerLib/824.0
+#EXTHTTP:{"cookie":"__hdnea__=st=1752546011~exp=1752632411~acl=/*~hmac=dc23b19e23c0f63d84b28debe92ce57886bda0d94662e24c6e8bd1939c0c4910"}
+https://jiotvmblive.cdn.jio.com/bpk-tv/Cartoon_Network_Hindi_BTS/output/index.mpd?__hdnea__=st=1752546011~exp=1752632411~acl=/*~hmac=dc23b19e23c0f63d84b28debe92ce57886bda0d94662e24c6e8bd1939c0c4910&xxx=%7Ccookie=__hdnea__=st=1752546011~exp=1752632411~acl=/*~hmac=dc23b19e23c0f63d84b28debe92ce57886bda0d94662e24c6e8bd1939c0c4910
+
+#EXTINF:-1 tvg-id="53" tvg-name="Colors Cineplex" group-title="Movies" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Colors_Cineplex.png",Colors Cineplex
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b9d4acedc66c5660a1e06197a55bccd2:dd53bab1a42f41ae8f0a5c8fd286f456
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/69.1 ExoPlayerLib/824.0
+#EXTHTTP:{"cookie":"__hdnea__=st=1752546011~exp=1752632411~acl=/*~hmac=dc23b19e23c0f63d84b28debe92ce57886bda0d94662e24c6e8bd1939c0c4910"}
+https://jiotvmblive.cdn.jio.com/bpk-tv/Colors_Cineplex_MOB/WDVLive/index.mpd?__hdnea__=st=1752546011~exp=1752632411~acl=/*~hmac=dc23b19e23c0f63d84b28debe92ce57886bda0d94662e24c6e8bd1939c0c4910&xxx=%7Ccookie=__hdnea__=st=1752546011~exp=1752632411~acl=/*~hmac=dc23b19e23c0f63d84b28debe92ce57886bda0d94662e24c6e8bd1939c0c4910
+
+#EXTINF:-1 tvg-id="1763" tvg-name="Colors Cineplex Bollywood" group-title="Movies" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Colors_Cineplex_Bollywood.png",Colors Cineplex Bollywood
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=061b3f55b6695e978b208f5117e609ee:9a6da304db8cfb545805d3152a5d66ed
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/69.1 ExoPlayerLib/824.0
+#EXTHTTP:{"cookie":"__hdnea__=st=1752546011~exp=1752632411~acl=/*~hmac=dc23b19e23c0f63d84b28debe92ce57886bda0d94662e24c6e8bd1939c0c4910"}
+https://jiotvmblive.cdn.jio.com/bpk-tv/Colors_Cineplex_Bollywood_BTS/output/index.mpd?__hdnea__=st=1752546011~exp=1752632411~acl=/*~hmac=dc23b19e23c0f63d84b28debe92ce57886bda0d94662e24c6e8bd1939c0c4910&xxx=%7Ccookie=__hdnea__=st=1752546011~exp=1752632411~acl=/*~hmac=dc23b19e23c0f63d84b28debe92ce57886bda0d94662e24c6e8bd1939c0c4910
+
+#EXTINF:-1 tvg-id="61" tvg-name="Colors Cineplex HD" group-title="Movies" tvg-logo="https://watchindia.net/images/channels/hindi/Cineplex_HD.png",Colors Cineplex HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b9d4acedc66c5660a1e06197a55bccd2:dd53bab1a42f41ae8f0a5c8fd286f456
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/69.1 ExoPlayerLib/824.0
+#EXTHTTP:{"cookie":"__hdnea__=st=1752546011~exp=1752632411~acl=/*~hmac=dc23b19e23c0f63d84b28debe92ce57886bda0d94662e24c6e8bd1939c0c4910"}
+https://jiotvmblive.cdn.jio.com/bpk-tv/Colors_Cineplex_HD_BTS/output/index.mpd?__hdnea__=st=1752546011~exp=1752632411~acl=/*~hmac=dc23b19e23c0f63d84b28debe92ce57886bda0d94662e24c6e8bd1939c0c4910&xxx=%7Ccookie=__hdnea__=st=1752546011~exp=1752632411~acl=/*~hmac=dc23b19e23c0f63d84b28debe92ce57886bda0d94662e24c6e8bd1939c0c4910
+
+#EXTINF:-1 tvg-id="1450" tvg-name="Colors Cineplex Superhit" group-title="Movies" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Rishtey_Cineplex.png",Colors Cineplex Superhit
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=234f3bf300e75c93a3825d54b1c0520b:53a4b6981fb1872c0ad4d197066e8c1f
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/69.1 ExoPlayerLib/824.0
+#EXTHTTP:{"cookie":"__hdnea__=st=1752546011~exp=1752632411~acl=/*~hmac=dc23b19e23c0f63d84b28debe92ce57886bda0d94662e24c6e8bd1939c0c4910"}
+https://jiotvmblive.cdn.jio.com/bpk-tv/Rishtey_Cineplex_BTS/output/index.mpd?__hdnea__=st=1752546011~exp=1752632411~acl=/*~hmac=dc23b19e23c0f63d84b28debe92ce57886bda0d94662e24c6e8bd1939c0c4910&xxx=%7Ccookie=__hdnea__=st=1752546011~exp=1752632411~acl=/*~hmac=dc23b19e23c0f63d84b28debe92ce57886bda0d94662e24c6e8bd1939c0c4910
 
 #EXTINF:-1 tvg-id="52" tvg-name="Colors TV HD" group-title="Entertainment" tvg-logo="https://watchindia.net/images/channels/hindi/Colors_TV_HD.png",Colors HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
