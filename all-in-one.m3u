@@ -53,14 +53,14 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/Colors_Cineplex_HD_BTS/output/index.mpd?_
 #EXTHTTP:{"cookie":"__hdnea__=st=1752546011~exp=1752632411~acl=/*~hmac=dc23b19e23c0f63d84b28debe92ce57886bda0d94662e24c6e8bd1939c0c4910"}
 https://jiotvmblive.cdn.jio.com/bpk-tv/Rishtey_Cineplex_BTS/output/index.mpd?__hdnea__=st=1752546011~exp=1752632411~acl=/*~hmac=dc23b19e23c0f63d84b28debe92ce57886bda0d94662e24c6e8bd1939c0c4910&xxx=%7Ccookie=__hdnea__=st=1752546011~exp=1752632411~acl=/*~hmac=dc23b19e23c0f63d84b28debe92ce57886bda0d94662e24c6e8bd1939c0c4910
 
-#EXTINF:-1 tvg-id="144" tvg-name="Colors TV HD" group-title="Entertainment" tvg-logo="https://watchindia.net/images/channels/hindi/Colors_TV_HD.png",Colors HD
+#EXTINF:-1 tvg-id="ts52" tvg-name="Colors TV HD" group-title="Entertainment" tvg-logo="https://watchindia.net/images/channels/hindi/Colors_TV_HD.png",Colors HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d9025bf5bbe6502cab58edaa0b50750b:91b5ca6ebefe3a977cb6fcae31868664
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/69.1 ExoPlayerLib/824.0
 #EXTHTTP:{"cookie":"__hdnea__=st=1752546011~exp=1752632411~acl=/*~hmac=dc23b19e23c0f63d84b28debe92ce57886bda0d94662e24c6e8bd1939c0c4910"}
 https://jiotvmblive.cdn.jio.com/bpk-tv/Colors_HD_BTS/output/index.mpd?__hdnea__=st=1752546011~exp=1752632411~acl=/*~hmac=dc23b19e23c0f63d84b28debe92ce57886bda0d94662e24c6e8bd1939c0c4910&xxx=%7Ccookie=__hdnea__=st=1752546011~exp=1752632411~acl=/*~hmac=dc23b19e23c0f63d84b28debe92ce57886bda0d94662e24c6e8bd1939c0c4910
 
-#EXTINF:-1 tvg-id="144" tvg-name="Colors SD" group-title="Entertainment" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Colors_SD.png",Colors SD
+#EXTINF:-1 tvg-id="ts52" tvg-name="Colors SD" group-title="Entertainment" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Colors_SD.png",Colors SD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=5727d2eea91255a3abcad8bf6e97cee6:66e77c7cf5c7f654c68f05455f44fea0
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/69.1 ExoPlayerLib/824.0
