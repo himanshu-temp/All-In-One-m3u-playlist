@@ -173,7 +173,7 @@ https://z5ak-cmaflive.zee5.com/cmaf/live/2105504/AndTVHDELE/index-connected.m3u8
 #EXTINF:-1 tvg-id="ts259" tvg-name="Zee News" group-title="News" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_News.png",Zee News
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
 https://z5ak-cmaflive.zee5.com/cmaf/live/2105510/ZEENEWSELE/master.m3u8?hdntl=exp=1752632671~acl=%2f*~data=hdntl~hmac=8fb574cb219de5f1fa4f2ac07c36c1b774da8e78d7f289ab24f88485004908d2
-#EXTINF:-1 tvg-id="Zee Zest HD" tvg-name="Zee Zest HD" group-title="Lifestyle" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Zest_HD.png",Zee Zest HD
+#EXTINF:-1 tvg-id="411746" tvg-name="Zee Zest HD" group-title="Lifestyle" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Zest_HD.png",Zee Zest HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
 https://z5ak-cmaflive.zee5.com/cmaf/live/2105513/ZeeZestHDELE/index-connected.m3u8?hdntl=exp=1752632671~acl=%2f*~data=hdntl~hmac=8fb574cb219de5f1fa4f2ac07c36c1b774da8e78d7f289ab24f88485004908d2
 #EXTINF:-1 tvg-id="ts523" tvg-name="Zee Anmol" group-title="Entertainment" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Anmol.png",Zee Anmol
