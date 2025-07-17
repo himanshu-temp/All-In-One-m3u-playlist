@@ -1,5 +1,0 @@
-#EXTM3U
-#EXTINF:-1 tvg-id="andtv" tvg-name="And TV" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/And_TV.png" group-title="Entertainment",&TV
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=5181d3e6698055578cedc5bfc86b3e56:3dca7917d8cf9bb7095dc72b48bdcd3c
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andtv/default/index.mpd?__hdnea__=st=1752631861~exp=1752718261~acl=/*~hmac=d69210234976ccacd07f8d35abe66899825bf9eff5a52e7c19a4508e50ca3c2d
