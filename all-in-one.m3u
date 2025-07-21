@@ -267,11 +267,11 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/sonic_Hindi_BTS/output/index.mpd?__hdnea_
 https://tataplay.slivcdn.com/hls/live/2011907/SonyBBCEarthHD/master.m3u8
 #EXTINF:-1 tvg-id="SONY KAL" tvg-name="SONY KAL" group-title="Entertainment" tvg-logo="https://c.evidon.com/pub_logos/2796-2021122219404475.png",SONY KAL
 https://spt-sonykal-1-us.lg.wurl.tv/playlist.m3u8
-
 #EXTINF:-1 tvg-id="289" tvg-name="Sony MAX" group-title="Movies" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/SET_MAX.png",Sony Max
 https://tataplay.slivcdn.com/hls/live/2011745/SonyMaxSD/master.m3u8
 #EXTINF:-1 tvg-id="Sony MAX 1" tvg-name="Sony MAX 1" group-title="Movies" tvg-logo="https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonypicturesnetworksindia/general_content/PGT_1822_2.png",Sony MAX 1
-https://rex-streaming.vercel.app/api/just-test/sonym@x1.m3u8%7Cuser-agent=@xfireflixbd
+http://filex.me:8080/live/wbNER77tKU/i1YcYBsPNU/512328.m3u8?play_token=TT7gXEivTD
+
 #EXTINF:-1 tvg-id="476" tvg-name="Sony Max HD" group-title="Movies" tvg-logo="https://watchindia.net/images/channels/hindi/Sony_Max_HD.png",Sony Max HD
 https://tataplay.slivcdn.com/hls/live/2011670/SonyMaxhd/master.m3u8
 #EXTINF:-1 tvg-id="441223" tvg-name="Sony Pal" group-title="Entertainment" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Pal.png",Sony Pal
