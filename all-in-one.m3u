@@ -3,7 +3,6 @@
 
 #EXTINF:-1 tvg-id="291" tvg-name="Sony TV HD" group-title="Entertainment" tvg-logo="https://watchindia.net/images/channels/hindi/Sony_TV_HD.png",(Sony) SET HD
 https://tataplay.slivcdn.com/hls/live/2011671/SETHD/master.m3u8
-
 #EXTINF:-1 tvg-id="177" tvg-name="ABP News India" group-title="News" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/ABP_News_India.png",ABP News India
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b9d4acedc66c5660a1e06197a55bccd2:dd53bab1a42f41ae8f0a5c8fd286f456
@@ -266,19 +265,19 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/sonic_Hindi_BTS/output/index.mpd?__hdnea_
 
 #EXTINF:-1 tvg-id="441386" tvg-name="Sony BBC Earth HD" group-title="Knowledge" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_BBC_Earth_HD.png",Sony BBC Earth HD
 https://tataplay.slivcdn.com/hls/live/2011907/SonyBBCEarthHD/master.m3u8
+#EXTINF:-1 tvg-id="SONY KAL" tvg-name="SONY KAL" group-title="Entertainment" tvg-logo="https://c.evidon.com/pub_logos/2796-2021122219404475.png",SONY KAL
+https://spt-sonykal-1-us.lg.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="289" tvg-name="Sony MAX" group-title="Movies" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/SET_MAX.png",Sony Max
 https://tataplay.slivcdn.com/hls/live/2011745/SonyMaxSD/master.m3u8
-
+#EXTINF:-1 tvg-id="Sony MAX 1" tvg-name="Sony MAX 1" group-title="Movies" tvg-logo="https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonypicturesnetworksindia/general_content/PGT_1822_2.png",Sony MAX 1
+https://rex-streaming.vercel.app/api/just-test/sonym@x1.m3u8%7Cuser-agent=@xfireflixbd
 #EXTINF:-1 tvg-id="476" tvg-name="Sony Max HD" group-title="Movies" tvg-logo="https://watchindia.net/images/channels/hindi/Sony_Max_HD.png",Sony Max HD
 https://tataplay.slivcdn.com/hls/live/2011670/SonyMaxhd/master.m3u8
-
 #EXTINF:-1 tvg-id="441223" tvg-name="Sony Pal" group-title="Entertainment" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Pal.png",Sony Pal
 https://tataplay.slivcdn.com/hls/live/2011741/SonyPalSD/master.m3u8
-
 #EXTINF:-1 tvg-id="471" tvg-name="Sony Sab HD" group-title="Entertainment" tvg-logo="https://watchindia.net/images/channels/hindi/Sony_Sab_HD.png",Sony Sab HD
 https://tataplay.slivcdn.com/hls/live/2011749/SABHD/master.m3u8
-
 #EXTINF:-1 tvg-id="514" tvg-name="Sony Sports Ten 1" group-title="Sports" tvg-logo="https://www.indiantvinfo.com/media/2022/10/Sony-Sports-Ten1-New-Logo.png",Sony Sports Ten 1
 https://dish.slivcdn.com/hls/live/2011739-b/TEN1SD/master.m3u8
 #EXTINF:-1 tvg-id="162" tvg-name="Sony Sports Ten 1 HD" group-title="Sports" tvg-logo="https://www.indiantvinfo.com/media/2022/10/Sony-Sports-Ten1-HD-New-Logo.png",Sony Sports Ten 1 HD
@@ -306,10 +305,8 @@ https://dish.slivcdn.com/hls/live/2020593-b/SONYSIXHD/master.m3u8
 
 #EXTINF:-1 tvg-id="Sony WAH" tvg-name="Sony WAH" group-title="Movies" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Wah.png",Sony WAH
 https://tataplay.slivcdn.com/hls/live/2011906/SonyWah/master.m3u8
-
 #EXTINF:-1 tvg-id="872" tvg-name="Sony Yay" group-title="Kids" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Yay_Hindi.png",Sony Yay
 https://tataplay.slivcdn.com/hls/live/2011746/SonyYaySD/master.m3u8
-
 #EXTINF:-1 tvg-id="441428" tvg-name="Star Bharat" group-title="Entertainment" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Star_Bharat.png",Star Bharat
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=687cfa6d31645a91ba3c38a9acdfac7c:c035ca584ac0a2170b96e2fa4523f3be
