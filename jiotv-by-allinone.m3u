@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://avkb.short.gy/jioepg.xml.gz"
+#EXTM3U url-tvg="https://tinyurl.com/himanshuepg"
 
 #EXTINF:-1 tvg-id="291" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_HD.png" group-title="TS-JioTV SonyLIV",SONY HD
 https://dai.google.com/ssai/event/HgaB-u6rSpGx3mo4Xu3sLw/master.m3u8
