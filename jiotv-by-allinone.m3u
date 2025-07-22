@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://tinyurl.com/himanshuepg"
+#EXTM3U url-tvg="https://github.com/himanshu-temp/All-In-One-m3u-playlist/raw/refs/heads/main/jiotv_epg.xml.gz"
 
 #EXTINF:-1 tvg-id="291" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_HD.png" group-title="TS-JioTV SonyLIV",SONY HD
 https://dai.google.com/ssai/event/HgaB-u6rSpGx3mo4Xu3sLw/master.m3u8
