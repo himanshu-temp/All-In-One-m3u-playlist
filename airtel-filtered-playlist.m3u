@@ -1,1 +1,5 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_SAB/images/LOGO_HD/image.png" group-title="Entertainment", SONY SAB
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDE0LTIvc29ueV9zYWIvbmRhc2hkLw==:Expires=1754636416:KeyName=iptv-prod-media-cdn-keys:Signature=xgsFDXrGa-Fg4ecFob4IiO5IDK4eRjmG4UBtbpsql3-G3UpOQ80EvtPv9XoaJbJJuNUHVgge7nvOCOYSMHwLBw=="}
+#EXTVLCOPT:http-user-agent=tv.accedo.airtel.wynk/1.97.1 (Linux;Android 11) ygx/69.1 ExoPlayerLib/2.19.1
+https://companion-live-play1.streamready.in/live/med14-2/sony_sab/ndashd/sony_sab.mpd?%7Ccookie=Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9jb21wYW5pb24tbGl2ZS1wbGF5MS5zdHJlYW1yZWFkeS5pbi9saXZlL21lZDE0LTIvc29ueV9zYWIvbmRhc2hkLw==:Expires=1754636416:KeyName=iptv-prod-media-cdn-keys:Signature=xgsFDXrGa-Fg4ecFob4IiO5IDK4eRjmG4UBtbpsql3-G3UpOQ80EvtPv9XoaJbJJuNUHVgge7nvOCOYSMHwLBw==
