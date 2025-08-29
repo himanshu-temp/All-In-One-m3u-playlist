@@ -1,11 +1,4 @@
 #EXTM3U
-
-# Zee5 Playlist Combined (IN + GB + SG + AE)
-# STRICT WARNING: This is a private server.
-# Do not share, misuse, or attempt to access tokens or credentials.
-# Providers must contact directly for any discussions.
-# Unauthorized access or takedown attempts will face legal consequences.
-
 #EXTINF:-1 tvg-id="0-9-zeetamil" tvg-country="IN" tvg-chno="001" tvg-language="ta" tvg-name="Zee Tamil HD" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_auto,h_396,c_scale,f_webp,q_auto:eco/resources/0-9-zeetamil/list/1920x1080listef67d9a80c9345bdb8254aa042944e0b.jpg" group-title="Entertainment", 
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=HLS
